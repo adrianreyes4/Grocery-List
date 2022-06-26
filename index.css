@@ -1,0 +1,20 @@
+* {
+    background: aliceblue;
+    font-family: Cabin;
+}
+#add-btn {
+    background-color: lightgreen;
+    border: lightgreen;
+    font: bold;
+    height: 22px;
+}
+
+#clr-btn, #sel-btn {
+    background-color: red;
+    border: red;
+    font: bold;
+}
+
+#sel-btn {
+    margin-right: 30px;
+}
