@@ -1,6 +1,3 @@
-//make the added item become added to the list, have a checkbox next to it, and added to local storage
-//have a delete selected button and a clear all button
-
 let myItems = []
 
 const itemEl = document.getElementById("item-el")
